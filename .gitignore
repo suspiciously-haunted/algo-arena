@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+# predictions_combined.csv
+# predictions_combined_industry.csv
+# *.parquet
+# sessions.py
+# algoarena.ipynb
